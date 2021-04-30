@@ -1,5 +1,11 @@
 # Projeto Banco de Dados
 
+## Equipe
+* **Gabriel Melo** - *Gerente do Projeto* — [gabrielgomesml](https://github.com/gabrielgomesml)
+* **Matheus do Nascimento** - *Modelador* — [mna2](https://github.com/mna2)
+* **Wilson Wagner** - *Programador* — [wilsonwagner](https://github.com/wilsonwagner)
+* **Maurício Felipe** - *Programador* — [MauricioFGF](https://github.com/MauricioFGF)
+
 ## Descrição:
 A aplicação proposta pelo grupo é um banco de dados de um sistema online de
 reserva e compra de passagens rodoviárias. Tomamos como exemplo modelos amplamente
@@ -44,4 +50,3 @@ compra;
 concluída, devendo o usuário fornecer os dados novamente;
 - O parcelamento poderá ser feito em até 12x, com parcela mínima de 25
 reais
-
